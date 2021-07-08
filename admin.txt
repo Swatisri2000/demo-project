@@ -1,5 +1,5 @@
 class Admin {
-
+	private String name;
 	Admin() {
 
 	}
